@@ -5,5 +5,14 @@ GitHubの練習用リポジトリ
 
 
 
-・AAAA
-aaaaa
+
+-aaaa
+-bbbb
+-cccc
+
+
+1.AAAA
+1.BBBB
+1.CCCC
+
+
